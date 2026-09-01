@@ -9,7 +9,7 @@ from src.pipeline import YouTubeRAGPipeline
 # ============================================================
 
 st.set_page_config(
-    page_title="YouTube RAG Assistant",
+    page_title="YouTube AI Chatbot",
     page_icon="🎥",
     layout="wide"
 )
