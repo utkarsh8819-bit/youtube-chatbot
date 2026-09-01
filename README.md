@@ -8,7 +8,7 @@ The application extracts the video's transcript, splits it into chunks, generate
 
 ## 🚀 Live Demo
 
-👉 https://youtube-chatbot-esureuiudiu7buf5yrbgvx.streamlit.app/
+👉 [Try the YouTube AI Chatbot](https://youtube-chatbot-esuureiudiu7buf5yrbgvx.streamlit.app/)
 
 ---
 
