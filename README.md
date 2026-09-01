@@ -8,9 +8,9 @@ The application extracts the video's transcript, splits it into meaningful chunk
 
 ## 🚀 Live Demo
 
-**Coming soon...**
+👉 [Try the YouTube AI Chatbot](https://youtube-chatbot-esureuiudiu7buf5yrbgvx.streamlit.app/)
 
-The application will be deployed using Streamlit Community Cloud.
+The application is deployed using Streamlit Community Cloud.
 
 ---
 
@@ -29,6 +29,18 @@ The application will be deployed using Streamlit Community Cloud.
 - ⏱️ Display source timestamps for retrieved information
 - ▶️ Watch the processed YouTube video inside the application
 - 🌐 Interactive Streamlit web interface
+
+---
+
+## 🛠️ Tech Stack
+
+- **Python** — Core application development
+- **Streamlit** — Web interface and deployment
+- **LangChain** — RAG pipeline orchestration
+- **Google Gemini** — Large Language Model for answer generation
+- **Hugging Face** — Multilingual sentence embeddings
+- **FAISS** — Vector similarity search
+- **YouTube Transcript API** — Transcript extraction
 
 ---
 
